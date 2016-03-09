@@ -12,8 +12,8 @@ inLanguage: af
 app_links: []
 isBasedOnUrl: 'http://dizadesign.be/'
 title: Home - Dizadesign
-datePublished: '2016-03-09T09:51:42.095Z'
-dateModified: '2016-03-09T09:50:05.616Z'
+datePublished: '2016-03-09T09:51:42.132Z'
+dateModified: '2016-03-09T09:50:05.516Z'
 sourcePath: _posts/2016-03-09-home-dizadesign.md
 published: true
 inFeed: true

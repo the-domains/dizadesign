@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Dizadesign]]></title>
         <description><![CDATA[Dizadesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dizadesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 09:51:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 09:52:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dizadesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home - Dizadesign]]></title>
+            <description><![CDATA[<article><h1>Home - Dizadesign</h1><p>Website ontwikkeling Website ontwikkeling: efficiënt, effectief, decoratief en interactief. Een uniek ontwerp voor elke branche en doelgroep. De nieuwste technieken volgens de huidige webstandaarden, voor een gebruiksvriendelijk en vindbare website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81ae0b6a842d3f0754fbc419858600fb08b930ee.jpg"></article>]]></description>
+            <link>http://dizadesign.be/</link>
+            <guid isPermaLink="false">7a6993f2-cac9-4b8c-a80b-9481f057bfb1</guid>
+            <pubDate>Wed, 09 Mar 2016 09:51:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home - Dizadesign]]></title>
             <description><![CDATA[<article><h1>Home - Dizadesign</h1><p>Website ontwikkeling Website ontwikkeling: efficiënt, effectief, decoratief en interactief. Een uniek ontwerp voor elke branche en doelgroep. De nieuwste technieken volgens de huidige webstandaarden, voor een gebruiksvriendelijk en vindbare website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81ae0b6a842d3f0754fbc419858600fb08b930ee.jpg"></article>]]></description>

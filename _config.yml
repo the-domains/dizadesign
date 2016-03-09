@@ -1,0 +1,28 @@
+name: Dizadesign
+favicon: null
+layout_spectrum: 0.9979080599732697
+typography_spectrum: 0.7612293472047895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9637638700660318
+  lightness: 0.005584777100011706
+  saturation: 0.3182560980785638
+  rhythmicContrast: 0.430658528348431
+purpose: []
